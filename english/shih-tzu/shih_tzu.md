@@ -1,1 +1,1 @@
-to know more, click [here](https://en.wikipedia.org/wiki/Shih_Tzu)
+to know more, .. click [here](https://en.wikipedia.org/wiki/Shih_Tzu)
